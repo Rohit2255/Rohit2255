@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
-<h3 align="center">A aspiring Data scientist from India</h3>
+<h3 align="center">An aspiring Data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit2255&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit2255" /> </p>
 
@@ -11,13 +11,21 @@
 
 - 🌱 I’m currently learning **TensorFlow , PyTorch**
 
-- 👯 I’m looking to collaborate on **Pytorch , TensorFlow**
+- 👯 I’m looking to collaborate on  Deep Learning 
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science & Machine Learning**
 
 - 📫 How to reach me **ry661432@gmail.com**
 
-- ⚡ Fun fact **👨‍💻 Fun Facts About Me 🧠 I’m currently doing 100 Data Science Projects in 100 Days — from fraud detection to stock price prediction! 🌃 I work night shifts and still manage to code, learn, and post daily — sleep is a luxury, but learning is non-negotiable. 🧳 I'm a passionate solo backpacker — I’ve explored the Himalayas with nothing but a rucksack and a heart full of curiosity. 🎧 You’ll often find me building machine learning models while vibing to 90s Bollywood hits and soulful ghazals. 📚 I'm a big fan of Hindi literature 🧑‍🍳 I can debug your Python script and also make perfect chai — both are equally important. 📊 I’m turning my love for finance + data into actionable, real-world ML projects — because numbers tell stories too. 🌍 Dreaming of working remotely from a mountain village, helping businesses grow with data while staying close to the clouds.**
+- ⚡ Fun fact 👨‍💻 Fun Facts About Me
+- 🧠 I’m currently doing 100 Data Science Projects in 100 Days  from fraud detection to stock price prediction!
+-  🌃 I work night shifts and still manage to code, learn, and post daily  sleep is a luxury, but learning is non-negotiable.
+-  🧳 I'm a passionate solo backpacker  I’ve explored the Himalayas with nothing but a rucksack and a heart full of curiosity.
+-  🎧 You’ll often find me building machine learning models while vibing to 90s Bollywood hits and soulful ghazals.
+-   📚 I'm a big fan of Hindi literature
+-   🧑‍🍳 I can debug your Python script and also make perfect ai — both are equally important
+-    📊 I’m turning my love for finance + data into actionable, real-world ML projects  because numbers tell stories too.
+-   🌍 Dreaming of working remotely from a mountain village, helping businesses grow with data while staying close to the clouds.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
