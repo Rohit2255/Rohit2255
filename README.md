@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d2b,100:1a1a4e&height=200&section=header&text=ROHIT%20YADAV&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&desc=Data%20Scientist%20%7C%20Pune%2C%20India&descSize=16&descAlignY=75&descColor=7eb8f7"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d2b,100:1a1a4e&height=200&section=header&text=ROHIT%20YADAV&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&desc=Data%20Scientist%20%7C%20Mumbai%2C%20India&descSize=16&descAlignY=75&descColor=7eb8f7"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 ```python
 astronaut = {
     "callsign"       : "Rohit Yadav",
-    "base"           : "Pune, India 🇮🇳",
+    "base"           : "Mumbai, India 🇮🇳",
     "mission"        : "100 DS Projects in 100 Days — engines running 🚀",
     "specialisation" : "Finance × Data Science × ML",
     "orbit"          : ["PyTorch", "TensorFlow", "NLP", "Deep Learning"],
