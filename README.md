@@ -1,45 +1,146 @@
-<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
-<h3 align="center"> Data scientist from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit2255&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit2255" /> </p>
+```
+██████╗  ██████╗ ██╗  ██╗██╗████████╗
+██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝
+██████╔╝██║   ██║███████║██║   ██║   
+██╔══██╗██║   ██║██╔══██║██║   ██║   
+██║  ██║╚██████╔╝██║  ██║██║   ██║   
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝  
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit2255" alt="Rohit2255" /></a> </p>
+### `> data_scientist.py running...` 🟢
 
-<p align="left"> <a href="https://twitter.com/ashwathama56" target="blank"><img src="https://img.shields.io/twitter/follow/ashwathama56?logo=twitter&style=for-the-badge" alt="ashwathama56" /></a> </p>
+*turning numbers into narratives — one model at a time*
 
-- 🔭 I’m currently working on **Pytorch**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Building+100+DS+projects+in+100+days+%F0%9F%9A%80;Night+shift+coder+%7C+Himalaya+backpacker+%F0%9F%8F%94%EF%B8%8F;Data+Scientist+%7C+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **TensorFlow , PyTorch**
+</div>
 
-- 👯 I’m looking to collaborate on  Deep Learning 
+---
 
-- 💬 Ask me about **Data Science & Machine Learning**
+## `whoami`
 
-- 📫 How to reach me **ry661432@gmail.com**
+```python
+rohit = {
+    "name"        : "Rohit Yadav",
+    "role"        : "Data Scientist",
+    "location"    : "Pune, India 🇮🇳",
+    "mission"     : "100 DS Projects in 100 Days",
+    "currently"   : ["PyTorch", "TensorFlow", "NLP Pipelines"],
+    "looking_for" : "Deep Learning collaborations",
+    "contact"     : "ry661432@gmail.com",
+    "fun_facts"   : [
+        "codes through night shifts ☕",
+        "solo backpacked the Himalayas 🏔️",
+        "builds models to 90s Bollywood hits 🎧",
+        "can debug Python AND make perfect chai 🧑‍🍳",
+        "dreaming of working remotely from a mountain village 🌍",
+    ]
+}
+```
 
-- ⚡ Fun fact 👨‍💻 Fun Facts About Me
-- 🧠 I’m currently doing 100 Data Science Projects in 100 Days  from fraud detection to stock price prediction!
--  🌃 I work night shifts and still manage to code, learn, and post daily  sleep is a luxury, but learning is non-negotiable.
--  🧳 I'm a passionate solo backpacker  I’ve explored the Himalayas with nothing but a rucksack and a heart full of curiosity.
--  🎧 You’ll often find me building machine learning models while vibing to 90s Bollywood hits and soulful ghazals.
--   📚 I'm a big fan of Hindi literature
--   🧑‍🍳 I can debug your Python script and also make perfect ai — both are equally important
--    📊 I’m turning my love for finance + data into actionable, real-world ML projects  because numbers tell stories too.
--   🌍 Dreaming of working remotely from a mountain village, helping businesses grow with data while staying close to the clouds.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashwathama56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwathama56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rohit2255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rohit2255" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100011645136740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011645136740" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ry661432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ry661432" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@rohit5780/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@rohit5780/" height="30" width="40" /></a>
-</p>
+## `./projects --status`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+> 🧠 **100 Data Science Projects in 100 Days** — fraud detection → stock prediction → NLP pipelines and beyond
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit2255&show_icons=true&locale=en&layout=compact" alt="Rohit2255" /></p>
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| 01 | Amazon Review NLP Pipeline | sklearn · spaCy · gensim | ✅ Complete |
+| 02 | Fraud Detection System | XGBoost · SMOTE | 🔄 In Progress |
+| 03 | Stock Price Predictor | LSTM · PyTorch | ⏳ Queued |
+| ... | *97 more loading...* | | 🚀 |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit2255&" alt="Rohit2255" /></p>
+---
+
+## `pip show skills`
+
+```
+Name: core_stack
+├── Languages    →  Python  •  SQL  •  Bash
+├── ML/DL        →  scikit-learn  •  PyTorch  •  TensorFlow
+├── NLP          →  NLTK  •  spaCy  •  Gensim  •  HuggingFace
+├── Data         →  Pandas  •  NumPy  •  Matplotlib  •  Seaborn
+├── Deploy       →  Flask  •  Django  •  Docker
+└── Tools        →  Git  •  Linux  •  Hadoop  •  MySQL
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![sklearn](https://img.shields.io/badge/sklearn-Proficient-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Proficient-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## `git log --oneline --recent`
+
+```bash
+feat: built end-to-end NLP pipeline (50k Amazon reviews, 89% accuracy)
+feat: LDA topic modeling → 8 business themes discovered, zero labels
+feat: Word2Vec embeddings → dog + food - treat = purina, iams, orijen 🤯
+feat: spaCy NER → extracted 16 brands from raw review text
+feat: TF-IDF sentiment classifier → "okay" = most negative word (-6.46)
+feat: text cleaning pipeline → 49.1% vocabulary noise reduction
+```
+
+---
+
+## `./stats --verbose`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rohit2255&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2255&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit2255&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `cat /etc/philosophy`
+
+```
+> "Sleep is a luxury. Learning is non-negotiable."
+
+> "Numbers tell stories. I'm just the narrator."
+
+> "The best view comes after the hardest climb —  
+   whether that's the Himalayas or a training loss curve."
+```
+
+---
+
+## `ssh connect@rohit`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-@ashwathama56-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashwathama56)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-rohit2255-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rohit2255)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ry661432-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ry661432)
+[![Email](https://img.shields.io/badge/Email-ry661432@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ry661432@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rohit2255&color=00b4d8&style=flat-square&label=profile+views)
+
+*`> currently_learning: ["PyTorch", "TensorFlow"] | status: grinding 🔥`*
+
+</div>
