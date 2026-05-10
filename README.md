@@ -14,7 +14,7 @@
       .              *       .           *       .
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=560&height=50&lines=🛰️+Transmitting+from+Pune%2C+India+%7C+21%2B+missions+complete;🌌+Turning+financial+data+into+signals+the+universe+understands)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=560&height=50&lines=🛰️+Transmitting+from+Mumbai%2C+India+%7C+21%2B+missions+complete;🌌+Turning+data+into+signals+the+universe+understands)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,7 +44,7 @@ astronaut = {
 
 ## 🌌 Mission Log — 100 Projects in 100 Days
 
-> Real projects. Real results. Launched daily from Pune into the data universe.
+> Real projects. Real results. Launched daily from Mumbai into the data universe.
 
 ```
   DAY  MISSION                              DOMAIN          STATUS
@@ -155,7 +155,7 @@ DATA & INFRASTRUCTURE
  │  "Numbers are just stars. A data scientist is someone        │
  │   who knows how to read the constellation."                  │
  │                                                              │
- │  "I build models at midnight to 90s Bollywood,               │
+ │  "I build models at midnight to Bollywood songs,               │
  │   debug at 3am, and post every day.                          │
  │   Not for clout — because the universe is made of data       │
  │   and I intend to understand all of it."                     │
