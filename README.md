@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- MOUNTAIN BANNER — save the SVG below as banner.svg and upload to your repo -->
-<img src="./banner.svg" width="100%" alt="K2 mountain banner — Rohit Yadav, Data Scientist, Mumbai"/>
+<img src="./map.svg" width="100%" alt="Carta Machinae Intelligentis — Ancient explorer map of AI Engineering by Rohit Yadav"/>
 
 </div>
 
@@ -9,155 +8,137 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=18&duration=3000&pause=1200&color=7090C0&center=true&vCenter=true&width=600&height=45&lines=Climbed+Tungnath+%C2%B7+Kedarkantha+%C2%B7+Sahyadri;Built+models+at+midnight+%C2%B7+Debugged+at+dawn;Every+summit+teaches+what+no+classroom+can;पर्वत+बुलाते+हैं+—+the+mountains+are+calling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=18&duration=3000&pause=1200&color=8B6520&center=true&vCenter=true&width=640&height=45&lines=Explorer+of+AI+Engineering+%C2%B7+Mumbai%2C+Bharata;Mid-journey+%C2%B7+charting+the+unknown+territories;Climbed+Tungnath+%C2%B7+Kedarkantha+%C2%B7+Sahyadri;The+map+grows+with+every+commit)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧭 The Climber
+<div align="center">
+
+*"Not all those who wander are lost —*
+*some are training models at 3am in Mumbai."*
+
+</div>
+
+---
+
+## 📜 The Explorer's Codex
 
 ```
-  Name        →  Rohit Yadav
-  Origin      →  Mumbai, Maharashtra, India 🇮🇳
-  Craft       →  Data Science · Finance · Machine Learning
-  Peaks       →  Tungnath · Kedarkantha · Sahyadri · K2 (the dream) 🏔️
-  Hours       →  Night shifts. Always. Sleep is negotiable.
-  Soundtrack  →  90s Bollywood · Ghazals · Wind above the treeline 🎧
-  Literature  →  Hindi poetry · the language of rivers and rain 📖
-  Chai count  →  uncountable ☕
-  Dream       →  Remote work from a village above the clouds 🌍
+  Name of Cartographer  →  Rohit Yadav
+  Port of Origin        →  Mumbai, Maharashtra, Bharata 🇮🇳
+  Current Expedition    →  AI Engineering · Deep Learning · NLP
+  Tools of Navigation   →  Python · PyTorch · sklearn · spaCy · HuggingFace
+  Fuel for the Journey  →  chai · 90s Bollywood · night shifts ☕🎧
+  Known Summits         →  Tungnath · Kedarkantha · Sahyadri 🏔️
+  The Grand Dream       →  Remote work from a village above the clouds 🌍
+  Year of This Scroll   →  MMXXVI
 ```
 
 ---
 
-## 🏔️ The Trek Log — A Data Science Journey
+## 🗺️ Territories Charted — The Expedition Log
 
-> *Every mountain is climbed one step at a time.*
-> *Every model is built one commit at a time.*
-> *Here is the ascent — from valley floor to death zone.*
+> *The red markers show where I have walked.*
+> *The gold marker shows where I climb now.*
+> *The dark shaded lands beyond — those are next.*
 
 ---
 
+### 🔴 The Plains of Python & Data
+*Well-trodden ground. Where all explorers begin.*
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  BASECAMP  ·  The Valley  ·  ~2,000m                           │
-│─────────────────────────────────────────────────────────────────│
-│                                                                 │
-│  Where all climbers begin. The tools are heavy.                 │
-│  The path is unclear. But the mountain is calling.              │
-│                                                                 │
-│  ⛺  Linear Regression — Ecommerce dataset (Kaggle)            │
-│      Learning pandas, numpy — the ropes and crampons           │
-│      "So this is what data looks like."                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  CAMP I  ·  The Treeline  ·  ~3,500m                           │
-│─────────────────────────────────────────────────────────────────│
-│                                                                 │
-│  The trees thin. The air changes.                               │
-│  You realise this is harder than you thought.                   │
-│  You continue anyway.                                           │
-│                                                                 │
-│  🏕️  Loan Approval Predictor                                    │
-│  🏕️  Credit Card Fraud Detector        ← 99.92% accuracy       │
-│  🏕️  Stock Price Trend Classifier      ← SMA · EMA · RSI · MACD│
-│  🏕️  Customer Churn Prediction         ← SMOTE · Random Forest  │
-│  🏕️  Credit Risk Scoring System        ← German Credit dataset  │
-│                                                                 │
-│      "Numbers can catch criminals. I had no idea."              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  CAMP II  ·  Above the Clouds  ·  ~5,000m                      │
-│─────────────────────────────────────────────────────────────────│
-│                                                                 │
-│  You look down and see how far you've come.                     │
-│  You look up and see how far there is to go.                    │
-│  This is where most people turn back.                           │
-│                                                                 │
-│  🔭  Customer Segmentation         ← K-Means clustering         │
-│  🔭  Automated Credit Risk         ← PCA + KMeans + Streamlit   │
-│  🔭  Insurance Claim Predictor     ← Streamlit deployed          │
-│  🔭  Stock Market Sentiment        ← Financial NLP headlines     │
-│  🔭  Global Inflation Visualiser   ← Economic EDA               │
-│  🔭  ETL Pipeline for Finance      ← Data engineering           │
-│  🔭  A/B Testing App Features      ← Statistical thinking       │
-│  🔭  Bank Branch Dashboard         ← Analytics                  │
-│  🔭  BNPL Risk Model               ← Credit default prediction  │
-│  🔭  Bitcoin Sentiment via Twitter ← Crypto + NLP               │
-│  🔭  ESG Score Predictor           ← Company sustainability ML   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  CAMP III  ·  The Death Zone Begins  ·  ~7,000m                │
-│─────────────────────────────────────────────────────────────────│
-│                                                                 │
-│  Here the oxygen thins.                                         │
-│  The problems grow harder. The models grow deeper.              │
-│  Language itself becomes a dataset.                             │
-│                                                                 │
-│  ⚡  SIP ROI Simulator             ← Personal finance ML        │
-│  ⚡  NPA Risk Analysis             ← Non-performing assets      │
-│  ⚡  Credit Risk Default Predictor ← Banking ML                 │
-│  ⚡  Amazon Review NLP Pipeline                                 │
-│      ├─ 50,000 reviews · 89% sentiment accuracy                │
-│      ├─ LDA topic modeling — 8 themes, zero labels             │
-│      ├─ Word2Vec: dog + food − treat = purina 🤯               │
-│      └─ spaCy NER — 16 brands extracted from raw text          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  CAMP IV  ·  The Summit Push  ·  ~8,000m                       │
-│─────────────────────────────────────────────────────────────────│
-│                                                                 │
-│  The wind is violent here. The cold is absolute.               │
-│  PyTorch. TensorFlow. Transformers.                             │
-│  K2 at 8,611m is in sight.                                      │
-│  The ascent continues.                                          │
-│                                                                 │
-│  🌌  Deep Learning with PyTorch        [ IN PROGRESS 🔄 ]      │
-│  🌌  TensorFlow Neural Networks        [ IN PROGRESS 🔄 ]      │
-│  🌌  HuggingFace Transformers          [ LOADING      ⏳ ]      │
-│  🌌  End-to-end ML deployment          [ QUEUED       📋 ]      │
-│                                                                 │
-│              ❄️  Summit not yet claimed.                        │
-│                  But the boots are laced.                       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+  Mastered the ropes of pandas, numpy, matplotlib
+  First models built here — Linear Regression, EDA
+  The foundation upon which all other lands rest
 ```
 
 ---
 
-## 🧰 The Climber's Kit
+### 🔴 The Kingdom of Classical ML
+*Vast, fertile, full of practical power.*
+```
+  Credit Card Fraud Detector      → 99.92% accuracy · SMOTE · LogReg
+  Loan Approval Predictor         → binary classification pipeline
+  Customer Churn Prediction       → Random Forest · SMOTE · deployment-ready
+  Credit Risk Scoring System      → German Credit dataset · feature importance
+  Automated Credit Risk           → PCA + KMeans + Streamlit
+  Stock Price Trend Classifier    → SMA · EMA · RSI · MACD
+  Insurance Claim Predictor       → Streamlit deployed
+  Customer Segmentation           → K-Means clustering
+  BNPL Risk Model                 → credit default prediction · Fintech
+  NPA Risk Analysis               → non-performing assets · Banking ML
+  ESG Score Predictor             → company sustainability scoring
+  SIP ROI Simulator               → personal finance ML
+```
+
+---
+
+### 🔴 The NLP Archipelago
+*A chain of islands, each one a different tongue.*
+```
+  Amazon Review NLP Pipeline
+  ├─ 50,000 reviews processed end-to-end
+  ├─ Text cleaning → 49.1% vocabulary noise removed
+  ├─ TF-IDF sentiment classifier → 89% accuracy
+  ├─ LDA topic modeling → 8 business themes, zero labels
+  ├─ Word2Vec → dog + food − treat = purina 🤯
+  └─ spaCy NER → 16 brands extracted from raw text
+
+  Stock Market Sentiment Analyser → financial news headlines
+  Bitcoin Sentiment via Twitter   → crypto + NLP signals
+  Twitter Hate Speech Detector    → text classification
+```
+
+---
+
+### 🔴 The Finance Frontier
+*Where data meets money. My specialisation.*
+```
+  21+ projects across fraud · credit · risk · markets · personal finance
+  Unique niche: the intersection of Finance × Data Science × ML
+  "Numbers tell stories. I translate them for the market."
+```
+
+---
+
+### 🟡 Deep Learning Mountains *(ascending now)*
+*The hardest terrain. The most rewarding views.*
+```
+  PyTorch fundamentals            → [ IN PROGRESS 🔄 ]
+  TensorFlow neural networks      → [ IN PROGRESS 🔄 ]
+  CNN image classification        → [ LOADING      ⏳ ]
+  HuggingFace Transformers        → [ AHEAD        📋 ]
+```
+
+---
+
+### ⬛ Terra Incognita *(hic svnt dracones)*
+*Here be dragons. The uncharted edge of the map.*
+```
+  LLM fine-tuning & RLHF         → [ UNCHARTED 🐉 ]
+  RAG pipelines & Vector DBs      → [ UNCHARTED 🐉 ]
+  AI Agents & Tool use            → [ UNCHARTED 🐉 ]
+  MLOps · CI/CD for ML            → [ UNCHARTED 🐉 ]
+  Production AI systems           → [ UNCHARTED 🐉 ]
+```
+
+---
+
+## 🧭 The Navigator's Kit
 
 ```
-  Essential gear — never leave basecamp without:
-  ┌────────────────────────────────────────────────────┐
-  │  🪢  Python          the rope — holds everything   │
-  │  🗺️  Pandas · NumPy  map and compass               │
-  │  ⛏️  scikit-learn    the ice axe                   │
-  │  🔦  XGBoost · SMOTE headlamp in the dark          │
-  │  📡  NLTK · spaCy    radio to read the signals     │
-  │  🧪  Matplotlib      reads the weather ahead       │
-  │  🏕️  Flask·Streamlit builds the camp               │
-  │  🐳  Docker          carries the base on its back  │
-  │  🧲  SQL · MySQL     finds water in the rock       │
-  │  🌬️  PyTorch         learning the wind             │
-  └────────────────────────────────────────────────────┘
+  Essential instruments carried on every expedition:
+
+  Language of Maps    →  Python
+  Measuring Tools     →  Pandas · NumPy · Matplotlib · Seaborn
+  Terrain Analysis    →  scikit-learn · XGBoost · SMOTE
+  Reading the Wind    →  NLTK · spaCy · Gensim · HuggingFace
+  Camp Construction   →  Flask · Streamlit · Docker
+  Water Navigation    →  SQL · MySQL
+  Deep Cartography    →  PyTorch · TensorFlow  ← learning
+  Celestial Reference →  Git · Linux · Bash
 ```
 
 ---
@@ -166,56 +147,61 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Rohit2255&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=05050f&title_color=7090c0&icon_color=a0b8d8&text_color=c9d1d9&ring_color=7090c0"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2255&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=05050f&title_color=7090c0&text_color=c9d1d9"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Rohit2255&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0f00&title_color=c8a050&icon_color=a07030&text_color=d4b870&ring_color=8b6520"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2255&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=1a0f00&title_color=c8a050&text_color=d4b870"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit2255&theme=github-dark-blue&hide_border=true&background=05050f&ring=7090c0&fire=a0b8d8&currStreakLabel=7090c0)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit2255&theme=github-dark-blue&hide_border=true&background=1a0f00&ring=c8a050&fire=a07030&currStreakLabel=c8a050)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📜 From the Trail Diary
+## 📖 From the Explorer's Journal
 
 <div align="center">
 
 ```
-  ┌──────────────────────────────────────────────────────────┐
-  │                                                          │
-  │  On Tungnath, above 3,680m, I understood something.     │
-  │  The mountain does not reward the loudest climber.       │
-  │  It rewards the one who keeps walking.                   │
-  │                                                          │
-  │  Data Science is the same.                              │
-  │  Not the one with the most certificates.                │
-  │  The one who keeps building — at midnight,              │
-  │  in silence, one commit at a time.                      │
-  │                                                          │
-  │  Kedarkantha taught me patience.                        │
-  │  The Sahyadri taught me to find beauty in fog.          │
-  │  The data teaches me everything else.                   │
-  │                                                          │
-  │                        — Rohit, somewhere uphill        │
-  └──────────────────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │  Anno MMXXVI. I am mid-journey.                             │
+  │                                                              │
+  │  The Plains of Python I know well.                          │
+  │  The Kingdom of ML I have crossed many times.               │
+  │  The NLP Archipelago — charted, and still fascinating.      │
+  │                                                              │
+  │  But the Deep Learning Mountains loom ahead,                │
+  │  and beyond them, the dark territories —                    │
+  │  LLMs, Agents, Production Systems —                         │
+  │  where the old maps simply read:                            │
+  │                                                              │
+  │           HIC SVNT DRACONES                                 │
+  │           (here be dragons)                                 │
+  │                                                              │
+  │  I am not afraid of dragons.                                │
+  │  I debug at 3am. I trek alone in the Himalayas.             │
+  │  The map will grow.                                         │
+  │                                                              │
+  │                          — Rohit, Mumbai, MMXXVI            │
+  └──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🌄 Find Me on the Trail
+## 🌄 Send a Carrier Pigeon
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-@ashwathama56-05050f?style=for-the-badge&logo=twitter&logoColor=7090c0&labelColor=0a0a2a)](https://twitter.com/ashwathama56)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Yadav-05050f?style=for-the-badge&logo=linkedin&logoColor=7090c0&labelColor=0a0a2a)](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-rohit2255-05050f?style=for-the-badge&logo=kaggle&logoColor=7090c0&labelColor=0a0a2a)](https://www.kaggle.com/rohit2255)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ry661432-05050f?style=for-the-badge&logo=hackerrank&logoColor=7090c0&labelColor=0a0a2a)](https://www.hackerrank.com/profile/ry661432)
-[![Email](https://img.shields.io/badge/Email-ry661432@gmail.com-05050f?style=for-the-badge&logo=gmail&logoColor=7090c0&labelColor=0a0a2a)](mailto:ry661432@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@ashwathama56-1a0f00?style=for-the-badge&logo=twitter&logoColor=c8a050)](https://twitter.com/ashwathama56)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Yadav-1a0f00?style=for-the-badge&logo=linkedin&logoColor=c8a050)](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-rohit2255-1a0f00?style=for-the-badge&logo=kaggle&logoColor=c8a050)](https://www.kaggle.com/rohit2255)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ry661432-1a0f00?style=for-the-badge&logo=hackerrank&logoColor=c8a050)](https://www.hackerrank.com/profile/ry661432)
+[![Email](https://img.shields.io/badge/Email-ry661432@gmail.com-1a0f00?style=for-the-badge&logo=gmail&logoColor=c8a050)](mailto:ry661432@gmail.com)
 
 </div>
 
@@ -223,10 +209,11 @@
 
 <div align="center">
 
-*"The best models, like the best views, come after the hardest climbs."*
+*"The map is not the territory —*
+*but it shows you where the dragons are."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rohit2255&color=7090c0&style=flat-square&label=fellow+trekkers+passed+by)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohit2255&color=8b6520&style=flat-square&label=fellow+travellers+passed+by)
 
-**पर्वत बुलाते हैं — and the data follows** 🏔️
+**~ Carta Machinae Intelligentis · Mumbai · MMXXVI ~**
 
 </div>
