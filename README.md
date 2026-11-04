@@ -1,219 +1,197 @@
+---
+model_name: rohit-yadav-v1.0
+license: open-to-collaboration
+language: [en, hi]
+library_name: human
+pipeline_tag: data-science
+base_model: jaunpur-uttar-pradesh
+tags: [machine-learning, nlp, rag, genai, mlops, credit-risk, finance, trekking]
+metrics: [f1, accuracy, chai-per-day]
+model-index:
+  - name: rohit-yadav-v1.0
+    results: [amazon-reviews-sentiment-0.89, credit-card-fraud-0.9992]
+---
+
 <div align="center">
 
-<img src="./map.svg" width="100%" alt="Carta Machinae Intelligentis — Ancient explorer map of AI Engineering by Rohit Yadav"/>
+# 🧠 rohit-yadav-v1.0
+
+### Model Card · Data Scientist · AI Engineer
+
+`task: data-science` · `modalities: text, tabular, finance` · `status: fine-tuning on GenAI + MLOps`
+
+[![Email](https://img.shields.io/badge/Contact-ry661432@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ry661432@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-rohit2255-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rohit2255)
 
 </div>
 
 ---
 
+## 📄 Model Description
+
+**rohit-yadav-v1.0** is a data scientist fine-tuned on 3+ years of applied analytics, statistical modelling and production-minded AI work. Specialised in **NLP, RAG pipelines and financial ML**. Optimised for turning messy real-world data into decisions people can act on.
+
+| | |
+|---|---|
+| **Developed by** | Rohit Yadav |
+| **Base model** | Jaunpur, Uttar Pradesh (pre-trained on stubbornness) |
+| **Fine-tuned in** | Mumbai → Gurgaon, India 🇮🇳 |
+| **Model type** | Applied data scientist, human, multilingual (English, Hindi) |
+| **Architecture** | Python-native · statistics-first · ships things |
+| **Availability** | Open to AI / ML / Data Science roles |
+
+---
+
+## 🎯 Intended Use
+
+**Direct use**
+- Building ML and NLP pipelines end to end: cleaning, features, modelling, evaluation
+- RAG systems and document Q&A with LangChain, FAISS and open LLMs
+- Credit-risk, fraud, churn and sentiment modelling for finance
+- Statistical modelling and rigorous code review for reproducibility
+
+**Downstream use**
+- Data / AI teams that need someone who reads the F1 score, not just the accuracy
+- Collaboration on GenAI, MLOps and deep learning projects
+
+**Out-of-scope use**
+- Trading advice, astrology predictions, anything requiring zero chai
+
+---
+
+## 🏋️ Training Data
+
+### Experience
+
+| Period | Role | Org | What the model learned |
+|---|---|---|---|
+| Jun 2026 – Sep 2026 | Senior Associate, Data Science | **Innodata India** (Remote) | Statistical modelling · QC review of R/Statistics and Rust Q&A pairs · peer code review for reproducibility and correctness · standardised, error-categorised review reporting |
+| Dec 2022 – Dec 2025 | Associate Analyst, Data & AI Integration | **RiseOTB** (Walmart Inc., Remote) | Data and AI integration in a large-scale retail environment |
+
+### Education
+
+| Degree | Institution |
+|---|---|
+| MCA (Master of Computer Applications) | Chandigarh University |
+| B.Sc. Information Technology | Mumbai University |
+
+---
+
+## ⚙️ Training Procedure
+
+### Core stack
+
+```
+Languages     →  Python · SQL · R · Bash
+ML / Stats    →  scikit-learn · XGBoost · SMOTE · statistical modelling
+NLP / GenAI   →  spaCy · NLTK · Gensim · LangChain · FAISS · Llama 3 · RAG
+Deep Learning →  PyTorch · TensorFlow           (continued pre-training 🔄)
+Deploy        →  Streamlit · Flask · Docker · Git · Linux
+Data          →  Pandas · NumPy · Matplotlib · Seaborn · MySQL
+```
+
+### Training curriculum (public checkpoints)
+
+| Checkpoint | Domain | What it does |
+|---|---|---|
+| [`Amazon-Review-Analysis`](https://github.com/Rohit2255/Amazon-Review-Analysis) | NLP | 50k reviews → cleaning, TF-IDF sentiment, LDA (8 topics), Word2Vec, spaCy NER |
+| [`Stock-Market-Sentiment-Analyze`](https://github.com/Rohit2255/Stock-Market-Sentiment-Analyze) | NLP · Finance | Financial headline sentiment with XGBoost |
+| [`Credit_Card_Fraud_Detection`](https://github.com/Rohit2255/Credit_Card_Fraud_Detection) | Fraud | Imbalanced classification with SMOTE |
+| [`Customer_Churn_Prediction`](https://github.com/Rohit2255/Customer_Churn_Prediction) | Telecom | Logistic Regression and Random Forest, feature importance |
+| [`credit_risk_scoring_system`](https://github.com/Rohit2255/credit_risk_scoring_system) | Credit risk | German Credit dataset, creditworthiness scoring |
+| [`Buy-Now-Pay-Later-BNPL-Risk-Model`](https://github.com/Rohit2255/Buy-Now-Pay-Later-BNPL-Risk-Model) | Fintech | Borrower default prediction |
+| [`NPA-Risk-Analysis-for-Bank-Loan-Portfolio`](https://github.com/Rohit2255/NPA-Risk-Analysis-for-Bank-Loan-Portfolio) | Banking | Non-performing asset risk analysis |
+
+### GenAI projects
+
+- **QuickCart AI chatbot** — RAG pipeline with LangChain, FAISS and Llama 3
+- **Financial Document Q&A** — retrieval-augmented question answering over financial documents
+
+---
+
+## 📊 Evaluation Results
+
+| Task | Dataset | Metric | Score |
+|---|---|---|---|
+| Review sentiment (binary) | Amazon Fine Food, 50k sample | Accuracy | **0.89** |
+| — positive class | same | F1 | **0.93** |
+| — negative class | same | F1 | **0.71** |
+| Topic modelling (LDA) | same | Interpretable topics | **8 / 8** |
+| Fraud detection | Credit Card Fraud | Accuracy | **0.9992** |
+| Text preprocessing | Amazon reviews | Vocabulary reduction | **49.1%** |
+
+> Evaluated with stratified 80/20 splits. Metrics are reported per class where the data is imbalanced.
+
+---
+
+## ⚠️ Limitations and Bias
+
+- **Imbalanced data is the enemy.** A 99.92% accuracy on fraud means little without precision and recall, so I report F1 per class and try to fix the imbalance (SMOTE, `class_weight`) instead of hiding behind accuracy.
+- **Known weakness:** the negative class in my own sentiment model (F1 0.71). I know why it happens and how to improve it.
+- **Domain shift:** NER trained on news misreads food reviews. I always check whether a pre-trained model fits the domain before trusting it.
+- **Currently under-trained on:** large-scale LLM fine-tuning, agents and production MLOps. These are active training areas.
+- **Sleep-deprived inference:** performance degrades without chai.
+
+---
+
+## 🌍 Environmental Impact
+
+- **Hardware:** one laptop, one chai kettle
+- **Hours trained:** late nights and early mornings
+- **Carbon emitted:** minimal, offset by regular Himalayan and Sahyadri trekking 🏔️ (Tungnath · Kedarkantha)
+
+---
+
+## 🚀 How to Get Started
+
+```python
+from rohit import DataScientist
+
+rohit = DataScientist.from_pretrained("rohit-yadav-v1.0")
+
+rohit.build(task="rag-pipeline", stack=["langchain", "faiss", "llama3"])
+rohit.evaluate(metric="f1", per_class=True)   # never accuracy alone
+rohit.ship(to="production")
+
+rohit.contact("ry661432@gmail.com")
+```
+
+---
+
+## 📈 Activity
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=18&duration=3000&pause=1200&color=8B6520&center=true&vCenter=true&width=640&height=45&lines=Explorer+of+AI+Engineering+%C2%B7+Mumbai%2C+Bharata;Mid-journey+%C2%B7+charting+the+unknown+territories;Climbed+Tungnath+%C2%B7+Kedarkantha+%C2%B7+Sahyadri;The+map+grows+with+every+commit)](https://git.io/typing-svg)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rohit2255&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2255&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 📚 Citation
 
-*"Not all those who wander are lost —*
-*some are training models at 3am in Mumbai."*
-
-</div>
-
----
-
-## 📜 The Explorer's Codex
-
-```
-  Name of Cartographer  →  Rohit Yadav
-  Port of Origin        →  Mumbai, Maharashtra, Bharata 🇮🇳
-  Current Expedition    →  AI Engineering · Deep Learning · NLP
-  Tools of Navigation   →  Python · PyTorch · sklearn · spaCy · HuggingFace
-  Fuel for the Journey  →  chai · 90s Bollywood · night shifts ☕🎧
-  Known Summits         →  Tungnath · Kedarkantha · Sahyadri 🏔️
-  The Grand Dream       →  Remote work from a village above the clouds 🌍
-  Year of This Scroll   →  MMXXVI
+```bibtex
+@misc{yadav2026rohit,
+  author       = {Yadav, Rohit},
+  title        = {rohit-yadav-v1.0: A Data Scientist Fine-Tuned on Finance, NLP and RAG},
+  year         = {2026},
+  howpublished = {\url{https://github.com/Rohit2255}},
+  note         = {Now fine-tuning on GenAI and MLOps}
+}
 ```
 
 ---
 
-## 🗺️ Territories Charted — The Expedition Log
+## 🤝 Model Card Contact
 
-> *The red markers show where I have walked.*
-> *The gold marker shows where I climb now.*
-> *The dark shaded lands beyond — those are next.*
-
----
-
-### 🔴 The Plains of Python & Data
-*Well-trodden ground. Where all explorers begin.*
-```
-  Mastered the ropes of pandas, numpy, matplotlib
-  First models built here — Linear Regression, EDA
-  The foundation upon which all other lands rest
-```
-
----
-
-### 🔴 The Kingdom of Classical ML
-*Vast, fertile, full of practical power.*
-```
-  Credit Card Fraud Detector      → 99.92% accuracy · SMOTE · LogReg
-  Loan Approval Predictor         → binary classification pipeline
-  Customer Churn Prediction       → Random Forest · SMOTE · deployment-ready
-  Credit Risk Scoring System      → German Credit dataset · feature importance
-  Automated Credit Risk           → PCA + KMeans + Streamlit
-  Stock Price Trend Classifier    → SMA · EMA · RSI · MACD
-  Insurance Claim Predictor       → Streamlit deployed
-  Customer Segmentation           → K-Means clustering
-  BNPL Risk Model                 → credit default prediction · Fintech
-  NPA Risk Analysis               → non-performing assets · Banking ML
-  ESG Score Predictor             → company sustainability scoring
-  SIP ROI Simulator               → personal finance ML
-```
-
----
-
-### 🔴 The NLP Archipelago
-*A chain of islands, each one a different tongue.*
-```
-  Amazon Review NLP Pipeline
-  ├─ 50,000 reviews processed end-to-end
-  ├─ Text cleaning → 49.1% vocabulary noise removed
-  ├─ TF-IDF sentiment classifier → 89% accuracy
-  ├─ LDA topic modeling → 8 business themes, zero labels
-  ├─ Word2Vec → dog + food − treat = purina 🤯
-  └─ spaCy NER → 16 brands extracted from raw text
-
-  Stock Market Sentiment Analyser → financial news headlines
-  Bitcoin Sentiment via Twitter   → crypto + NLP signals
-  Twitter Hate Speech Detector    → text classification
-```
-
----
-
-### 🔴 The Finance Frontier
-*Where data meets money. My specialisation.*
-```
-  21+ projects across fraud · credit · risk · markets · personal finance
-  Unique niche: the intersection of Finance × Data Science × ML
-  "Numbers tell stories. I translate them for the market."
-```
-
----
-
-### 🟡 Deep Learning Mountains *(ascending now)*
-*The hardest terrain. The most rewarding views.*
-```
-  PyTorch fundamentals            → [ IN PROGRESS 🔄 ]
-  TensorFlow neural networks      → [ IN PROGRESS 🔄 ]
-  CNN image classification        → [ LOADING      ⏳ ]
-  HuggingFace Transformers        → [ AHEAD        📋 ]
-```
-
----
-
-### ⬛ Terra Incognita *(hic svnt dracones)*
-*Here be dragons. The uncharted edge of the map.*
-```
-  LLM fine-tuning & RLHF         → [ UNCHARTED 🐉 ]
-  RAG pipelines & Vector DBs      → [ UNCHARTED 🐉 ]
-  AI Agents & Tool use            → [ UNCHARTED 🐉 ]
-  MLOps · CI/CD for ML            → [ UNCHARTED 🐉 ]
-  Production AI systems           → [ UNCHARTED 🐉 ]
-```
-
----
-
-## 🧭 The Navigator's Kit
-
-```
-  Essential instruments carried on every expedition:
-
-  Language of Maps    →  Python
-  Measuring Tools     →  Pandas · NumPy · Matplotlib · Seaborn
-  Terrain Analysis    →  scikit-learn · XGBoost · SMOTE
-  Reading the Wind    →  NLTK · spaCy · Gensim · HuggingFace
-  Camp Construction   →  Flask · Streamlit · Docker
-  Water Navigation    →  SQL · MySQL
-  Deep Cartography    →  PyTorch · TensorFlow  ← learning
-  Celestial Reference →  Git · Linux · Bash
-```
-
----
-
-## 📡 Expedition Records
+Questions, collaborations or opportunities → **ry661432@gmail.com**
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Rohit2255&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0f00&title_color=c8a050&icon_color=a07030&text_color=d4b870&ring_color=8b6520"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2255&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=1a0f00&title_color=c8a050&text_color=d4b870"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Rohit2255&color=1f6feb&style=flat-square&label=inference+requests)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit2255&theme=github-dark-blue&hide_border=true&background=1a0f00&ring=c8a050&fire=a07030&currStreakLabel=c8a050)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📖 From the Explorer's Journal
-
-<div align="center">
-
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                                                              │
-  │  Anno MMXXVI. I am mid-journey.                             │
-  │                                                              │
-  │  The Plains of Python I know well.                          │
-  │  The Kingdom of ML I have crossed many times.               │
-  │  The NLP Archipelago — charted, and still fascinating.      │
-  │                                                              │
-  │  But the Deep Learning Mountains loom ahead,                │
-  │  and beyond them, the dark territories —                    │
-  │  LLMs, Agents, Production Systems —                         │
-  │  where the old maps simply read:                            │
-  │                                                              │
-  │           HIC SVNT DRACONES                                 │
-  │           (here be dragons)                                 │
-  │                                                              │
-  │  I am not afraid of dragons.                                │
-  │  I debug at 3am. I trek alone in the Himalayas.             │
-  │  The map will grow.                                         │
-  │                                                              │
-  │                          — Rohit, Mumbai, MMXXVI            │
-  └──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🌄 Send a Carrier Pigeon
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-@ashwathama56-1a0f00?style=for-the-badge&logo=twitter&logoColor=c8a050)](https://twitter.com/ashwathama56)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Yadav-1a0f00?style=for-the-badge&logo=linkedin&logoColor=c8a050)](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-rohit2255-1a0f00?style=for-the-badge&logo=kaggle&logoColor=c8a050)](https://www.kaggle.com/rohit2255)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ry661432-1a0f00?style=for-the-badge&logo=hackerrank&logoColor=c8a050)](https://www.hackerrank.com/profile/ry661432)
-[![Email](https://img.shields.io/badge/Email-ry661432@gmail.com-1a0f00?style=for-the-badge&logo=gmail&logoColor=c8a050)](mailto:ry661432@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"The map is not the territory —*
-*but it shows you where the dragons are."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rohit2255&color=8b6520&style=flat-square&label=fellow+travellers+passed+by)
-
-**~ Carta Machinae Intelligentis · Mumbai · MMXXVI ~**
+*Model card last updated: 2026 · Version 1.0 · Training in progress*
 
 </div>
