@@ -2,7 +2,7 @@
 
 <img src="./carta-machinae.svg" width="100%" alt="Carta Machinae Intelligentis — an animated map of Rohit Yadav's AI engineering journey"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=19&duration=3200&pause=1000&color=8B6520&center=true&vCenter=true&width=700&height=45&lines=Explorer+of+AI+Engineering+%C2%B7+Mumbai%2C+Bharata;Mid-journey+%C2%B7+the+map+grows+with+every+commit;Climbed+Tungnath+%C2%B7+Kedarkantha+%C2%B7+the+Sahyadri;%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%A4+%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%A4%E0%A5%87+%E0%A4%B9%E0%A5%88%E0%A4%82+%E2%80%94+and+the+data+follows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=19&duration=3200&pause=1000&color=8B6520&center=true&vCenter=true&width=700&height=45&lines=Explorer+of+AI+Engineering+%C2%B7+Mumbai%2C+Bharata;Mid-journey+%C2%B7+the+map+grows+with+every+commit;Building+RAG+pipelines+with+LangChain+%C2%B7+FAISS+%C2%B7+Llama+3;Climbed+Tungnath+%C2%B7+Kedarkantha+%C2%B7+the+Sahyadri;%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%A4+%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%A4%E0%A5%87+%E0%A4%B9%E0%A5%88%E0%A4%82+%E2%80%94+and+the+data+follows)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ```
   Cartographer   →  Rohit Yadav
   Port of origin →  Mumbai, Maharashtra, Bharata 🇮🇳
-  Craft          →  Data Science · AI Engineering · Finance × ML
+  Craft          →  Data Science · AI Engineering · RAG & LLM apps · Finance × ML
   Summits        →  Tungnath · Kedarkantha · Sahyadri · (K2, someday) 🏔️
   Fuel           →  chai · 90s Bollywood · ghazals · late nights ☕🎧
   Reads          →  Hindi literature
@@ -71,6 +71,20 @@ Also in the archipelago: [Stock Market Sentiment Analyzer](https://github.com/Ro
 </details>
 
 <details>
+<summary><b>🔴 The RAG Citadel</b> — <i>LangChain · FAISS · Llama 3</i></summary>
+
+<br>
+
+Where documents become answers. Retrieval-augmented generation pipelines: chunk and embed text, index it in **FAISS**, retrieve the relevant passages, and let an LLM (**Llama 3**) answer from them through **LangChain**.
+
+| Expedition | What it does |
+|---|---|
+| QuickCart AI chatbot | RAG chatbot built with LangChain, FAISS and Llama 3 |
+| Financial Document Q&A | Question answering over financial documents with retrieval |
+
+</details>
+
+<details>
 <summary><b>🟢 The Finance Frontier</b> — <i>ESG · NPA · BNPL</i></summary>
 
 <br>
@@ -114,7 +128,7 @@ Models are only maps until someone can use them. Shipped with Streamlit: [Insura
 <br>
 
 ```
-  LLM systems · RAG · Agents · MLOps
+  Agents · MLOps · production-scale LLM systems
   The old maps just say: here be dragons.
   I intend to cross them and redraw the map.
 ```
@@ -140,12 +154,13 @@ Every explorer is measured by the monsters met. These are mine, each from a real
 ## 🧭 The Navigator's Instruments
 
 ```
-  Language of maps   →  Python
+  Language of maps   →  Python · R · Rust · SQL
   Measuring tools    →  Pandas · NumPy · Matplotlib · Seaborn
   Terrain analysis   →  scikit-learn · XGBoost · SMOTE
-  Reading the wind   →  NLTK · spaCy · Gensim
+  Reading the wind   →  NLTK · spaCy · Gensim · Word2Vec · LDA
+  Language models    →  RAG · LangChain · FAISS · Llama 3 · LLMs
   Camp construction  →  Flask · Streamlit · Docker
-  Water finding      →  SQL · MySQL
+  Water finding      →  MySQL
   Deep cartography   →  PyTorch · TensorFlow   (learning)
   Celestial charts   →  Git · Linux · Bash
 ```
